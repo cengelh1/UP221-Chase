@@ -19,6 +19,7 @@ The work from this course demonstrates:
 I am interested in exploring how to visualize the impacts of the housing/jobs imbalance, concentrations of air pollution, better visusalizing the high injury network, potential sites for social housing/CLTs, and better visually demonstrating racial inequities and segregation accross LA. 
   
 ##Course Objective
+
 I hope to gain a firm understanding of Python in this course, as well as more proficiently work with data tools. 
 
 Looking forward to working with y'all! 
