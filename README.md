@@ -10,9 +10,13 @@ For fun, I like to make music, surf, get outside, travel, and explore cities.
 ## About This Course
 The work from this course demonstrates:
   -The value of data for planning purposes through discovery, exploration, and analysis
+  
   -Critical evaluation of data and create frameworks to prepare data for research
+  
   -Application of data science programming techniques to produce relevant visualizations that inform urban policy
+  
   -Visualization of data spatially to communicate the importance of place-based informatics
+  
   -Production of publication-ready scholarly materials in the form of tables, charts, and maps
   
 ## Project Ideas
